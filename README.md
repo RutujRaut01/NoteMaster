@@ -1,8 +1,3 @@
-# Notes-NodeJs-CRUD-MongoDB
-
-## Udates
-[x] Fixed Mongoose Notes Query Issue 7.0.0
-
 ## You need:
 - Database (MongoDB)
 - Google Console Account to create the API Auth Key's
