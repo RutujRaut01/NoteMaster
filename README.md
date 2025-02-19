@@ -1,3 +1,9 @@
+ Crafted a full-stack note-taking app with Google authentication, allowing users to securely create, update, delete, and
+ search notes.
+ Designed a responsive UI using EJS templates and Bootstrap, with dynamic pagination and customizable dashboards.
+ Established a secure backend with session management, CRUD operations, and third-party authentication integration for
+ scalability and data integrity.
+
 ## You need:
 - Database (MongoDB)
 - Google Console Account to create the API Auth Key's
